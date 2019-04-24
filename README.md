@@ -5,8 +5,8 @@
 - Java
 
 ## Comandos para ejecutar.
-javac supermarket.java
-java supermarket
+- javac supermarket.java
+- java supermarket
 
 ## Indicaciones.
 Este proyecto es una modificació del proyecto TP7 en la que he introducido javafx y asi poder visualizarlo en modo gráfico.
